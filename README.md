@@ -1,3 +1,3 @@
 hello
-learning github commands
+learning github commands of all kinds
 making a change
