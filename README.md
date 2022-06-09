@@ -1,3 +1,8 @@
 hello
-learning github commands from gary
+
+learning github commands of all kinds from gary
 making a change
+
+
+making a change
+
